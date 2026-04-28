@@ -17,7 +17,7 @@ $ cat profile.json
 {
   "name":       "Amon Ochuka",
   "focus":      "Backend Development",
-  "stack":      ["Go", "JavaScript", "PostgreSQL", "Docker"],
+  "stack":      ["Go", "Python", "PostgreSQL", "Docker"],
   "location":   "Nairobi, Kenya 🇰🇪",
   "status":     "Self-taught · Always building",
   "goal":       "Full-Stack, backend-first",

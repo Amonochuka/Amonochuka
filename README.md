@@ -49,6 +49,10 @@ $ cat profile.json
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+![JWT](https://img.shields.io/badge/JWT-0d0d0d?style=for-the-badge&logo=jsonwebtokens&logoColor=00FF41)
+![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00FF41)
+![Gin](https://img.shields.io/badge/Gin-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41)
+![Chi](https://img.shields.io/badge/Chi-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41)
 
 </div>
 

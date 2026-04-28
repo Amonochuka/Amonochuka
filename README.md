@@ -34,12 +34,14 @@ $ cat profile.json
 **Languages**
 
 ![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=00FF41)
 ![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=databricks&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00FF41)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=00FF41)
 
 **DevOps & Tools**
 

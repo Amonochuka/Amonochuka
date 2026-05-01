@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Amon+Ochuka+%F0%9F%91%8B;Backend+Developer+%7C+Go+%2B+PostgreSQL;Scalable%2C+unbreakable+backends.;Self-taught+%7C+Curious+,Aggresive.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Amon+Ochuka+%F0%9F%91%8B;Backend+Developer+%7C+Go+%2B+PostgreSQL;Scalable%2C+unbreakable+backends.;Self-taught+%7C+Curious+,+Aggresive.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Amonochuka&style=flat-square&color=00ff41&label=PROFILE+VIEWS" alt="profile views"/>
 

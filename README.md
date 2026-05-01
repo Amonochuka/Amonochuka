@@ -65,12 +65,12 @@ var projects = []Project{
     {
         Name:        "TraceLock 🔐",
         Description: "Tracks zone activity inside a building — think biometrics meets access control.",
-        Stack:       []string{"Go", "PostgreSQL"},
+        Stack:       []string{"Go", "PostgreSQL", "Chi"},
     },
     {
         Name:        "OTAS 💰",
         Description: "Micro savings app — small deposits, big goals.",
-        Stack:       []string{"Go", "PostgreSQL", "Docker"},
+        Stack:       []string{"Go", "PostgreSQL", "Gin"},
     },
 }
 ```
@@ -109,7 +109,7 @@ var projects = []Project{
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/amon-ochuka)
 [![Email](https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ochukaamon@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/Amonochuka)
+
 
 </div>
 

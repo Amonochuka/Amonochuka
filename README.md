@@ -68,8 +68,8 @@ var projects = []Project{
         Stack:       []string{"Go", "PostgreSQL", "Chi"},
     },
     {
-        Name:        "OTAS 💰",
-        Description: "Micro savings app — small deposits, big goals.",
+        Name:        "Ganji💰",
+        Description: "Payments, but using Sats. Freelancer Freedom !",
         Stack:       []string{"Go", "PostgreSQL", "Gin"},
     },
 }

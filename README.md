@@ -70,7 +70,7 @@ var projects = []Project{
     {
         Name:        "Ganji💰",
         Description: "Payments, but using Sats. Freelancer Freedom !",
-        Stack:       []string{"Go", "PostgreSQL", "Gin"},
+        Stack:       []string{"Go", "PostgreSQL", "Gin", "JS"},
     },
 }
 ```

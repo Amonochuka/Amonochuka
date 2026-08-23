@@ -53,7 +53,7 @@ $ cat profile.json
 ![REST API](https://img.shields.io/badge/REST_API-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00FF41)
 ![Gin](https://img.shields.io/badge/Gin-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41)
 ![Chi](https://img.shields.io/badge/Chi-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41)
-![Supabase](https://shields.io)
+![Supabase](https://shields.io/badge/Supabase-0d0d0d?style=for-the-badge&logo=go&logoColor=00FF41))
 ![Vercel](https://shields.io)
 ![Render](https://shields.io)
 
